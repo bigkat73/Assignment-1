@@ -1,7 +1,23 @@
+.content{
+	width: 750px;
+	margin: auto;
+}
 h1{
 	text-align: center
 }
 
 nav{
 	text-align: center;
+}
+
+p{ 
+	height: 200px; 
+}
+img {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #222222;
+  padding: 5px;
+  text-align: center
 }
